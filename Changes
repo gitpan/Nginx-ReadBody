@@ -1,5 +1,8 @@
 Revision history for Perl extension Nginx::ReadBody.
 
+0.03  Tue Feb 16 16:12:21 2010
+	- Requirements fixed: perl 5.8.0 should be enough
+
 0.02  Tue Feb 16 03:45:21 2010
 	- Russian doc fixed
 

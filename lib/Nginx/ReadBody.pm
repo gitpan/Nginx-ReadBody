@@ -1,6 +1,6 @@
 package Nginx::ReadBody;
 
-use 5.008004;
+use 5.008000;
 use strict;
 use warnings;
 
@@ -25,7 +25,7 @@ our @EXPORT = qw(
 	
 );
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use nginx;
 
@@ -115,7 +115,7 @@ Russian doc: L<Nginx::ReadBody:Russian>
 
 Nginx::ReadBody - nginx web server embeded perl module to read and evaluate a request body
 
-I<Version 0.02>
+I<Version 0.03>
 
 =head1 SYNOPSIS
 

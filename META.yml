@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Nginx-ReadBody
-version:            0.02
+version:            0.03
 abstract:           nginx web server embeded perl module to read and evaluate a request body
 author:
     - Daniel Podolsky <tpaba@cpan.org>
