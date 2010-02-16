@@ -1,10 +1,12 @@
+=head1 Russian doc for L<Nginx::ReadBody>
+
 =encoding utf-8
 
-=head1 Документация:
+=head1 Languages
 
-Английская: L<Nginx::ReadBody>
+Английский: L<Nginx::ReadBody>
 
-Русская: L<Nginx::ReadBody:Russian>
+Русский: L<Nginx::ReadBody:Russian>
 
 =head1 NAME
 
