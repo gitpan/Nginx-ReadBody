@@ -6,13 +6,13 @@
 
 Английский: L<Nginx::ReadBody>
 
-Русский: L<Nginx::ReadBody:Russian>
+Русский: L<Nginx::ReadBody::Russian>
 
 =head1 NAME
 
 Nginx::ReadBody - Модуль для встроенного perl web-сервера nginx, позволяющий "заглянуть" в тело запроса
 
-I<Версия 0.03>
+I<Версия 0.04>
 
 =head1 SYNOPSIS
 

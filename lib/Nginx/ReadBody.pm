@@ -25,7 +25,7 @@ our @EXPORT = qw(
 	
 );
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use nginx;
 
@@ -109,13 +109,13 @@ __END__
 
 English doc: L<Nginx::ReadBody>
 
-Russian doc: L<Nginx::ReadBody:Russian>
+Russian doc: L<Nginx::ReadBody::Russian>
 
 =head1 NAME
 
 Nginx::ReadBody - nginx web server embeded perl module to read and evaluate a request body
 
-I<Version 0.03>
+I<Version 0.04>
 
 =head1 SYNOPSIS
 
