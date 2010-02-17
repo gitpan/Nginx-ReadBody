@@ -1,5 +1,8 @@
 Revision history for Perl extension Nginx::ReadBody.
 
+0.06  Wed Feb 17 12:52:21 2010
+	- One more try to fix Russian doc
+
 0.05  Tue Feb 16 19:54:21 2010
 	- Minor doc fix
 	- One more try to nake Russian doc processed properly

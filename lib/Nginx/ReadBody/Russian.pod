@@ -1,13 +1,13 @@
-=head1 TRANSLATIONS=encoding utf-8
+=encoding utf-8
 
-English: L<Nginx::ReadBody>
+=head1 TRANSLATIONSEnglish: L<Nginx::ReadBody>
 Русский: L<Nginx::ReadBody::Russian>
 
 =head1 NAME
 
 Nginx::ReadBody::Russian - Русская документация к модулю L<Nginx::ReadBody> для встроенного perl web-сервера nginx
 
-I<Версия 0.05>
+I<Версия 0.06>
 
 =head1 SYNOPSIS
 
