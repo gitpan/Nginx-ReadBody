@@ -25,7 +25,7 @@ our @EXPORT = qw(
 	
 );
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 use nginx;
 
@@ -105,17 +105,17 @@ sub read($)
 __END__
 # Below is stub documentation for your module. You'd better edit it!
 
-=head1 Languages available
+=head1 TRANSLATIONS
 
-English doc: L<Nginx::ReadBody>
+English: L<Nginx::ReadBody>
 
-Russian doc: L<Nginx::ReadBody::Russian>
+Russian: L<Nginx::ReadBody::Russian>
 
 =head1 NAME
 
 Nginx::ReadBody - nginx web server embeded perl module to read and evaluate a request body
 
-I<Version 0.04>
+I<Version 0.05>
 
 =head1 SYNOPSIS
 

@@ -1,18 +1,13 @@
-=head1 Russian doc for L<Nginx::ReadBody>
+=head1 TRANSLATIONS=encoding utf-8
 
-=encoding utf-8
-
-=head1 Languages
-
-Английский: L<Nginx::ReadBody>
-
+English: L<Nginx::ReadBody>
 Русский: L<Nginx::ReadBody::Russian>
 
 =head1 NAME
 
-Nginx::ReadBody - Модуль для встроенного perl web-сервера nginx, позволяющий "заглянуть" в тело запроса
+Nginx::ReadBody::Russian - Русская документация к модулю L<Nginx::ReadBody> для встроенного perl web-сервера nginx
 
-I<Версия 0.04>
+I<Версия 0.05>
 
 =head1 SYNOPSIS
 
