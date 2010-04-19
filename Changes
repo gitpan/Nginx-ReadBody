@@ -1,5 +1,8 @@
 Revision history for Perl extension Nginx::ReadBody.
 
+0.07  Wed Apr 19 20:51:00 2010
+	- Bugfix: test disable on install as this module could only be loaded from nginx
+
 0.06  Wed Feb 17 12:52:21 2010
 	- One more try to fix Russian doc
 
